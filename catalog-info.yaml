@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: prime-radiant-marketplace
+  description: "Prime Radiant's Claude Code plugin marketplace catalog."
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+    prime-radiant.com/repo-map-rev: "d39f2393f37cc79fb21c8375f74a22f1801a862a"
+  tags: [claude-code, claude-code-plugin, marketplace]
+spec:
+  type: tool
+  lifecycle: production
+  owner: user:obra
+  system: plugins
+  dependsOn:
+    - component:iterative-development
+    - component:greenfield
