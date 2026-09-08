@@ -28,6 +28,18 @@
       "author": {
         "name": "Prime Radiant, Inc."
       }
+    },
+    {
+      "name": "study-skills",
+      "description": "Skills for durable agent learning across sessions: analytical reading that produces artifacts, a cross-linked Zettelkasten slip-box with a bundled CLI, first-person beliefs with falsifiers and revision logs, mid-task experience capture with conservative synthesis, a four-test gate for distilling new skills, and read-only deliberation forks at high-stakes decision points.",
+      "source": {
+        "source": "github",
+        "repo": "prime-radiant-inc/study-skills"
+      },
+      "author": {
+        "name": "Prime Radiant, Inc.",
+        "email": "jesse@primeradiant.com"
+      }
     }
   ]
 }
