@@ -21,8 +21,8 @@
       "name": "iterative-development",
       "description": "An iterative implementation methodology that pairs with superpowers. Extracts requirements with proof obligations from large spec collateral, defines a walking skeleton that closes a real journey, then loops through audited sprints building a behavior evidence corpus until an auditor confirms the product matches the spec.",
       "source": {
-        "source": "github",
-        "repo": "prime-radiant-inc/iterative-development"
+        "source": "url",
+        "url": "https://github.com/prime-radiant-inc/iterative-development.git"
       },
       "author": {
         "name": "Prime Radiant, Inc.",
@@ -33,8 +33,8 @@
       "name": "greenfield",
       "description": "Reverse engineer clean behavioral specs from any codebase.",
       "source": {
-        "source": "github",
-        "repo": "prime-radiant-inc/greenfield"
+        "source": "url",
+        "url": "https://github.com/prime-radiant-inc/greenfield.git"
       },
       "author": {
         "name": "Prime Radiant, Inc."
