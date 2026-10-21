@@ -51,6 +51,18 @@
         "name": "Prime Radiant, Inc.",
         "email": "jesse@primeradiant.com"
       }
+    },
+    {
+      "name": "maintaining-documentation",
+      "description": "Keep a project's docs true to the code and useful to their readers, without rewriting historical records. Writes each doc for its reader and job (README, tutorial, how-to, troubleshooting, reference, architecture), tests it on a simulated reader, and copyedits it with a drift check.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/prime-radiant-inc/maintaining-documentation.git"
+      },
+      "author": {
+        "name": "Prime Radiant, Inc.",
+        "email": "jesse@primeradiant.com"
+      }
     }
   ]
 }
