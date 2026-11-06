@@ -63,6 +63,18 @@
         "name": "Prime Radiant, Inc.",
         "email": "jesse@primeradiant.com"
       }
+    },
+    {
+      "name": "toolsmith",
+      "description": "Stops agents from writing throwaway helper scripts: agents check a shared tool catalog and a toolsmith subagent builds, changes and catalogs reusable command-line tools in a git-backed tools repo.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/prime-radiant-inc/toolsmith.git"
+      },
+      "author": {
+        "name": "Prime Radiant, Inc.",
+        "email": "jesse@primeradiant.com"
+      }
     }
   ]
 }

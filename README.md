@@ -9,6 +9,7 @@ Prime Radiant's Claude Code plugin marketplace.
 - **[greenfield](https://github.com/prime-radiant-inc/greenfield)** — Reverse engineer clean behavioral specs from any codebase.
 - **[study-skills](https://github.com/prime-radiant-inc/study-skills)** — Durable agent learning across sessions: analytical reading, a cross-linked Zettelkasten slip-box with a bundled CLI, first-person beliefs with falsifiers, experience capture, and deliberation forks.
 - **[maintaining-documentation](https://github.com/prime-radiant-inc/maintaining-documentation)**: Keep a project's docs true to the code and useful to their readers. Writes each doc for its reader's job, tests it on a simulated reader, and copyedits it with a drift check.
+- **[toolsmith](https://github.com/prime-radiant-inc/toolsmith)**: Stops agents from writing throwaway helper scripts. Agents check a shared tool catalog, and a toolsmith subagent builds and catalogs reusable tools in a git-backed tools repo.
 
 ## Installation
 
@@ -19,6 +20,7 @@ Prime Radiant's Claude Code plugin marketplace.
 /plugin install greenfield@prime-radiant-marketplace
 /plugin install study-skills@prime-radiant-marketplace
 /plugin install maintaining-documentation@prime-radiant-marketplace
+/plugin install toolsmith@prime-radiant-marketplace
 ```
 
 Restart Claude Code after installing.
